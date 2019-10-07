@@ -1,6 +1,6 @@
 module.exports = {
   profile: {
-    name: 'Acharya Srinivas',
+    name: 'Acharya Srinivas Prasad',
     title: 'Devops Engineer',
     photo: 'https://avatars2.githubusercontent.com/u/7221389?s=300&v=4', // 300x300px
     city: 'California, USA',
